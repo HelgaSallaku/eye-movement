@@ -14,6 +14,7 @@ Move your cursor in the direction you want the eyes to move.
 # Roadmap
 Change eye color
 Change eye size
+Track the curson in the oposite direction 
 
 # License information
 License information Code from MIT xPro Womone Coding June 2023 Cohort | Helga Sallaku
