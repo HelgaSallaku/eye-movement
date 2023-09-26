@@ -17,4 +17,4 @@ Change eye size
 Track the curson in the oposite direction 
 
 # License information
-License information Code from MIT xPro Womone Coding June 2023 Cohort | Helga Sallaku
+License information Code from MIT xPro Women Coding June 2023 Cohort | Helga Sallaku
